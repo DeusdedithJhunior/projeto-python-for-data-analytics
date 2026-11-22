@@ -1,0 +1,18 @@
+# Base
+numpy
+pandas
+openpyxl
+
+# Visualização
+matplotlib
+seaborn
+plotly
+
+# Notebooks
+jupyterlab
+ipykernel
+
+# Qualidade de código e testes
+pytest
+black
+ruff
