@@ -115,8 +115,8 @@ jupyter lab
 
 ## 👤 Autor
 
-**Deusdedit Andrade da Silva Junior**  
+**Deusdedit Andrade**  
 Analista de Dados & Tech Lead · Power BI · SQL · Python · Databricks
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<seu-perfil>/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/<seu-usuario>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deusdedit-junior/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DeusdedithJhunior)
