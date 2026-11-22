@@ -2,6 +2,7 @@
 numpy
 pandas
 openpyxl
+requests
 matplotlib
 seaborn
 plotly
