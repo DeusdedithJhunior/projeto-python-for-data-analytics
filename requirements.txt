@@ -1,18 +1,24 @@
-# Base
+# ===== Núcleo: análise de dados =====
 numpy
 pandas
 openpyxl
-
-# Visualização
 matplotlib
 seaborn
 plotly
-
-# Notebooks
+statsmodels
 jupyterlab
 ipykernel
 
-# Qualidade de código e testes
+# ===== Qualidade de código =====
 pytest
 black
 ruff
+
+# ===== Machine Learning =====
+scikit-learn
+
+# ===== Módulos avançados (instale quando chegar neles) =====
+# torch torchvision          # 12 - Deep Learning
+# langchain langchain-groq   # 13 - IA Generativa / RAG
+# crewai tavily-python       # 14 - Agentes de IA
+# streamlit groq             # 00 e 15 - Data Apps
