@@ -41,7 +41,6 @@ projeto-python-for-data-analytics/
 ├── 15-deploy-e-data-apps-com-streamlit/
 ├── projetos/          # Estudos de caso, mini-projetos e desafios
 ├── data/              # Datasets compartilhados (raw / processed)
-├── certificados/      # dio/ e dsa/
 ├── requirements.txt
 └── README.md
 ```

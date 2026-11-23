@@ -27,3 +27,6 @@ desktop.ini
 # Dados grandes (descomente se necessário)
 # data/raw/*
 # !data/raw/.gitkeep
+
+# Certificados (mantidos apenas localmente)
+certificados/
