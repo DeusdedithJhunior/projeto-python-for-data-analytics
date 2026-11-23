@@ -1,0 +1,7 @@
+Relatório de vendas
+Produto A: 100 unidades
+Produto B: 200 unidades
+Total: 300 unidades
+Produto C: 150 unidades
+Produto D: 250 unidades
+Total atualizado: 700 unidades
